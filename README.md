@@ -1,7 +1,7 @@
 #
 # MongoDB Query
 #
-### `Comparison Query ($eq, $neq, $gt, $lt, $gte, $lte)`
+### `Comparison Query ($eq, $gt, $gte, $lt, $lte, $ne, $in, $nin)`
 #
 [Comparison Query Documentations](https://www.mongodb.com/docs/manual/reference/operator/query-comparison/)
 #
