@@ -1,5 +1,5 @@
 #
-# MongoDB logo Query
+# MongoDB Query
 #
 ### `Comparison Query ($eq, $neq, $gt, $lt, $gte, $lte)`
 #
