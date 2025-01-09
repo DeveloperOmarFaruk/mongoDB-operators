@@ -20,3 +20,13 @@
 ![image](https://github.com/user-attachments/assets/dcc034bc-e12f-4451-8fc1-7a90b5bbfe13)
 #
 ![image](https://github.com/user-attachments/assets/c54c67f2-ff60-486b-ba15-56098f9b1a62)
+
+#
+### `Logical Query ($and, $or, $gte, $nor, $not)`
+#
+![image](https://github.com/user-attachments/assets/eacc09ed-c1ac-4912-b2bc-bb7ef2ca8e78)
+#
+![image](https://github.com/user-attachments/assets/8ff3542d-0df1-4640-a3a2-b9729a895562)
+#
+
+
